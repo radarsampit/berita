@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://radarsampit.github.io/berita/sitemap.xml
